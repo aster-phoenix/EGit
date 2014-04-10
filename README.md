@@ -1,2 +1,2 @@
-EGit
+EGit from eclipse
 ====
